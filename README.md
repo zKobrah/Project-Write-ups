@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://freepngimg.com/convert-png/32023-lenovo-logo-transparent" width="300">
 </p>
+<p align="center">
+  # Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
+</p>
 
-# Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
 
 # Synopsis
 User submits a device that is experiencing slow start-ups and a faulty keyboard. User states that when attempting to log-in after initial boot, they are unable to input password due to the password box blinking rapidly.

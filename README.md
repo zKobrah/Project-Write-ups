@@ -7,10 +7,11 @@ User submits a device that is experiencing slow start-ups and a faulty keyboard.
 
 --------
 # Tools
-1.) iFixit PC repair toolkit
-2.) USB Keyboard
+- iFixit PC repair toolkit
+- USB Keyboard
 
 --------
+# Process
 
 Upon first inspection, I noticed that it seems as though the "Enter" key is being rapidly input; as if a ghost key is being held down. I reboot the device to check if this anomoly is able to be reproduced.
 I perform a hard shut down of the device and hold the power button for 30 seconds to discharge any residual power.

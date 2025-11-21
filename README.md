@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["(https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepngimg.com%2Fpng%2F32023-lenovo-logo-transparent&psig=AOvVaw0Y4OSoqca9uWcVZCG-6WCM&ust=1763780347154000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMid3vqfgpEDFQAAAAAdAAAAABAL)"](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepngimg.com%2Fpng%2F32023-lenovo-logo-transparent&psig=AOvVaw0Y4OSoqca9uWcVZCG-6WCM&ust=1763780347154000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMid3vqfgpEDFQAAAAAdAAAAABAL) width="300">](https://freepngimg.com/convert-png/32023-lenovo-logo-transparent)
+  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepngimg.com%2Fpng%2F32023-lenovo-logo-transparent&psig=AOvVaw0Y4OSoqca9uWcVZCG-6WCM&ust=1763780347154000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMid3vqfgpEDFQAAAAAdAAAAABAL)"](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepngimg.com%2Fpng%2F32023-lenovo-logo-transparent&psig=AOvVaw0Y4OSoqca9uWcVZCG-6WCM&ust=1763780347154000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMid3vqfgpEDFQAAAAAdAAAAABAL) width="300">](https://freepngimg.com/convert-png/32023-lenovo-logo-transparent)
 </p>
 # Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
 

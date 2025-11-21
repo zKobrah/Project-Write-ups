@@ -6,20 +6,20 @@
 </p>
 
 
-<p align="center">
+<p align="Left">
   <strong> Synopsis </strong>
 </p>
 User submits a device that is experiencing slow start-ups and a faulty keyboard. User states that when attempting to log-in after initial boot, they are unable to input password due to the password box blinking rapidly.
 
 --------
-<p align="center">
+<p align="Left">
   <strong> Tools </strong>
 </p>
 - iFixit PC repair toolkit
 - USB Keyboard
 
 --------
-<p align="center">
+<p align="Left">
   <strong> Process </strong>
 </p>
 

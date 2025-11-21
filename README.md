@@ -29,13 +29,13 @@ Next I open the system settings and check for any Windows updates. The device im
 After checking for updates, 7 updates and one firmware update were available. I backed up the device and began downloading and installing the updates.
 (It is important to note that this user is using Windows 10 and it is passed the support end date)
 The updates installed are as follows:
-1.) Windows Malicious Software Removal Tool (x64)
-2.) 2025-10 Cumulative Update for .NET Framework 3.5, 4.8, and 4.81 for Windows 10 Version 22H2
-3.) 2025-10 Update for Windows 10 Version 22H2
-4.) Lenovo - System - 1.2.0.11
-5.) 2023-10 Update for Windows 10 Version 22H2
-6.) Microsoft .NET Framework 4.8.1 for Windows 10 Verion 22H2
-7.) Realtek Superconductor Corp - USB - 10.0.18362.31260
-8.) Lenovo Ltd - Firmware - 1.26.0.0
+- Windows Malicious Software Removal Tool (x64)
+- 2025-10 Cumulative Update for .NET Framework 3.5, 4.8, and 4.81 for Windows 10 Version 22H2
+- 2025-10 Update for Windows 10 Version 22H2
+- Lenovo - System - 1.2.0.11
+- 2023-10 Update for Windows 10 Version 22H2
+- Microsoft .NET Framework 4.8.1 for Windows 10 Verion 22H2
+- Realtek Superconductor Corp - USB - 10.0.18362.31260
+- Lenovo Ltd - Firmware - 1.26.0.0
 
 --------

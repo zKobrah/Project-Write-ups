@@ -1,5 +1,5 @@
 # Project-Write-up #1
-#Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
+# Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
 
 --------
 # Synopsis

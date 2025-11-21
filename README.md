@@ -1,4 +1,3 @@
-# Project-Write-up #1
 # Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
 
 --------

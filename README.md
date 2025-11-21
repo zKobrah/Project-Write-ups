@@ -2,8 +2,16 @@
 Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
 
 --------
-
+# Synopsis
 User submits a device that is experiencing slow start-ups and a faulty keyboard. User states that when attempting to log-in after initial boot, they are unable to input password due to the password box blinking rapidly.
+
+--------
+# Tools
+1.) iFixit PC repair toolkit
+2.) USB Keyboard
+
+--------
+
 Upon first inspection, I noticed that it seems as though the "Enter" key is being rapidly input; as if a ghost key is being held down. I reboot the device to check if this anomoly is able to be reproduced.
 I perform a hard shut down of the device and hold the power button for 30 seconds to discharge any residual power.
 Upon booting the device, the issue is replicated.

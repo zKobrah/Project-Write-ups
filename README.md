@@ -6,22 +6,18 @@
 </p>
 
 
-<p align="Left">
-  <strong> Synopsis </strong>
-</p>
+# Synopsis
 User submits a device that is experiencing slow start-ups and a faulty keyboard. User states that when attempting to log-in after initial boot, they are unable to input password due to the password box blinking rapidly.
 
 --------
-<p align="Left">
-  <strong> Tools </strong>
-</p>
+
+# Tools
 - iFixit PC repair toolkit
 - USB Keyboard
 
 --------
-<p align="Left">
-  <strong> Process </strong>
-</p>
+
+# Process
 
 Upon first inspection, I noticed that it seems as though the "Enter" key is being rapidly input; as if a ghost key is being held down. I reboot the device to check if this anomoly is able to be reproduced.
 I perform a hard shut down of the device and hold the power button for 30 seconds to discharge any residual power.

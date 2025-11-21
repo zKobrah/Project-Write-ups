@@ -2,7 +2,7 @@
   <img src="https://freepngimg.com/convert-png/32023-lenovo-logo-transparent" width="300">
 </p>
 <p align="center">
-  # Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
+  <strong></strong> Lenovo Ideapad S145 - Slow start-up + Faulty Keyboard
 </p>
 
 
